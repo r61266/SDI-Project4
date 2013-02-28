@@ -24,6 +24,33 @@ console.log(Email.charAt(6));
 console.log(Email.substring(start,end));
 
 // Array Functions
+var HighestNum = function(Num) {
+	var Numbers = [
+	2,
+	4,
+	6,
+	8,
+	10,
+	12
+];
+console.log(Numbers)
+return HighestNum;
+};
+
+// 
+var Numbers = [
+	1,
+	2,
+	3,
+	4,
+];
+console.log(1+2+3+4);
+
+     
+
+
+
+
 
 
 		
