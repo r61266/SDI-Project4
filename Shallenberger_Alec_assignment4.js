@@ -44,7 +44,12 @@ var Numbers = [
 	3,
 	4,
 ];
-console.log(1+2+3+4);
+var result = 1+2+3+4
+console.log(result);
+
+//number functions
+  
+
 
      
 
